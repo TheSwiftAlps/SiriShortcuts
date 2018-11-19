@@ -65,7 +65,7 @@ An `NSUserActivity` is a snapshot of what the user is doing in your app at a mom
 
 ## D) Implement the Lists domain in MVCTodo
 
-[MVCTodo](https://github.com/davedelong/MVCTodo) is a sample project by Dave DeLong that we can use as a basis on which to implement the Siri Lists domain. Follow the steps for Task B for each list- and task-related `INIntent` type found on the [Lists and Notes domain page](https://developer.apple.com/documentation/sirikit/lists_and_notes).
+[MVCTodo](https://github.com/a2/MVCTodo/tree/sirikit-workshop) is a sample project by Dave DeLong (modified to remove some of the initial shared framework overhead) that we can use as a basis on which to implement the Siri Lists domain. Follow the steps for Task B for each list- and task-related `INIntent` type found on the [Lists and Notes domain page](https://developer.apple.com/documentation/sirikit/lists_and_notes).
 
 ## Resources
 
